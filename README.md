@@ -29,7 +29,7 @@ Before you begin, ensure you have met the following requirements:
 - Access to the Sellix API with your credentials [Sellix](https://sellix.io)
 
 ## Installation
-- Clone this repo: ```https://github.com/Nix4444/crypto-invoice-telegram-bot```
+- Clone this repo: ```https://github.com/IT2Topper0127/crypto-invoice-telegram-bot```
 - Install the requirements: ```pip install -r requirements.txt```
 - Add the Telegram Bot Token and Sellix API Key in ``main.py``
 - Start the bot: ```python main.py```
